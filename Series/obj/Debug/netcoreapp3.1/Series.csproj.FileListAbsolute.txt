@@ -1,0 +1,13 @@
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Workspace\MRV NET Developer\Projetos\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
